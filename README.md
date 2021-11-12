@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Web Development using Javascript, Java, HTML, and CSS. I also have some knowledge of assembly, C, MatLab, and Python.
 
 - 📫 Email: loganed09@gmail.com
-
+-  Portfolio: logan-edwards.com
